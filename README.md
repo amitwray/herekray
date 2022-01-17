@@ -26,9 +26,9 @@
 
 | 变量 | 默认值 | 说明 |
 | :--- | :--- | :--- |
-| `ID` | `ad806487-2d26-4636-98b6-ab85cc8521f7` | VMess 用户主 ID，用于身份验证，为 UUID 格式 |
-| `AID` | `64` | 为进一步防止被探测所设额外 ID，即 AlterID，范围为 0 至 65535 |
-| `WSPATH` | `/` | WebSocket 所使用的 HTTP 协议路径 |
+| `ID` | `852af5e2-02c2-435c-b0be-10b609e6dc88` | VMess 用户主 ID，用于身份验证，为 UUID 格式 |
+| `AID` | `64179` | 为进一步防止被探测所设额外 ID，即 AlterID，范围为 0 至 65535 |
+| `WSPATH` | `/vl` | WebSocket 所使用的 HTTP 协议路径 |
 
 ## 接入 CloudFlare
 
